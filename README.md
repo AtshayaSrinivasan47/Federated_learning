@@ -1,1 +1,3 @@
-# Federated_learning
+# Federated_learning for anomaly detection on healthcare network traffic data - A snowflake integrated approach.
+
+This project is to build a comprehensive system to provide solutions for cybersecurity challenges in healthcare IoHT devices. This utilise the concept of federated learning framework to train the local data and transfer only the model updates to global server to enhance privacy and security of the hospital IoHT/edge devices. This framework integrates with snowflake to manage model updates and metadata versioning.  Also, a streamlit application uses the data in the snowflake horizon to predict the attack types and create a report for further analysis. This capability further improve the security that only the right people with right access can use the model updates and take immeadiate action in case of abnormalities.
